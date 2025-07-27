@@ -39,8 +39,8 @@
 
 ✅ Fluxo principal de sucesso: realizar login com sucesso com uma conta já previamente cadastrada.  
 ✅ Fluxo principal de insucesso: realizar login com uma conta inexistente em sua base de dados.  
-✅ Fluxo alternativo de insucesso: login incorreto e senha correta, não sendo possível logar.  
-✅ Fluxo alternativo de insucesso: login correto e senha incorreta, não sendo possível logar.  
+✅ Fluxo alternativo de insucesso: login incorreto e senha correta.  
+✅ Fluxo alternativo de insucesso: login correto e senha incorreta.   
 
 
 ---  
