@@ -1,5 +1,5 @@
 # 📘 Desafio Criativo TDS Company
-> Os emojis possuem significado positivo/negativo quanto a avaliação após os testes  
+> Os emojis possuem significado positivo/atenção/negativo quanto a avaliação após os testes  
 ![Site utilizado no desafio](https://www.automationexercise.com/)
 ---  
 
